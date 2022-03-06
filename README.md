@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 --> 
 <h1 align="center">Hi 👋, I'm Prathiksha Kini</h1>
-<h3 align="center">A passionate coder</h3>
+<h3 align="center">Machine Learning and Web Development Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkini2002&label=Profile%20views&color=0e75b6&style=flat" alt="pkini2002" /> </p>
 
