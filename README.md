@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 --> 
 
 ![Prathiksha's github stats](https://github-readme-stats.vercel.app/api?username=pkini2002&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pkini2002&repo=github-readme-stats)](https://github.com/pkini2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkini2002&layout=compact)](https://github.com/pkini2002/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=pkini2002&color=green)
+
 
