@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: gpkini2002@gmail.com
 
---> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkini2002&theme=radical)
+--> 
+![Prathiksha's github stats](https://github-readme-stats.vercel.app/api?username=pkini2002&show_icons=true&theme=radical)
