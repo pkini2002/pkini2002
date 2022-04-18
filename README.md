@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkini2002" alt="pkini2002" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Web Development**
-- 🌱 I’m interested in Machine Learning and Data Science
+- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 I’m interested in Web Development
 
 - 📫 How to reach me **gpkini2002@gmail.com**
 
