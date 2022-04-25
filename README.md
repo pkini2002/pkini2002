@@ -1,15 +1,15 @@
 
-<!--
-**pkini2002/pkini2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **pkini2002/pkini2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Frontend Web Development
 - 🌱 I’m interested in Programming
 - 👯 I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: gpkini2002@gmail.com
 
---> 
+ 
 <!-- <h1 align="center">Hi 👋, I'm Prathiksha Kini</h1>
 <h3 align="center">Machine Learning and Web Development Enthusiast</h3>
 
