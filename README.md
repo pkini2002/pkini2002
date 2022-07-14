@@ -31,6 +31,7 @@ Here are some ideas to get you started: -->
 <a href="https://linkedin.com/in/prathiksha-kini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathiksha-kini" height="30" width="40" /></a>
 <a href="https://kaggle.com/prathikshakini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathikshakini" height="30" width="40" /></a>
 <a href="https://instagram.com/prathiksha_kini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathiksha_kini" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/profile.php?id=100080906923004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prathiksha_kini" height="30" width="40" /></a>
 </p>
 <hr>
 
