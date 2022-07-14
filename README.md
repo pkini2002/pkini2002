@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on Web Development and Machine Learning
 - 🌱 I’m interested in Programming
 - 👯 I’m looking to collaborate on web development projects
 - 📫 How to reach me: gpkini2002@gmail.com
