@@ -3,27 +3,26 @@
 <!-- **pkini2002/pkini2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+ <h1 align="center">Hey there fellow developers! , I'm Prathiksha Kini</h1>
+<h3 align="center">Web Development Enthusiast</h3>
 
-- 🔭 I’m currently working on Web Development and Machine Learning
+<!-- - 🔭 I’m currently working on Web Development and Machine Learning
 - 🌱 I’m interested in Programming
 - 👯 I’m looking to collaborate on web development projects
 - 📫 How to reach me: gpkini2002@gmail.com
-- 👯 Feel free to connect with me on <a href="https://www.linkedin.com/in/prathiksha-kini/"> Linkedin </a>
+- 👯 Feel free to connect with me on <a href="https://www.linkedin.com/in/prathiksha-kini/"> Linkedin </a> -->
 
 
 
  
-<!-- <h1 align="center">Hi 👋, I'm Prathiksha Kini</h1>
-<h3 align="center">Machine Learning and Web Development Enthusiast</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkini2002&label=Profile%20views&color=0e75b6&style=flat" alt="pkini2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkini2002" alt="pkini2002" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkini2002" alt="pkini2002" /></a> </p> 
 
-<!-- - 🌱 I’m currently learning **Machine Learning and Data Science**
-- 🌱 I’m interested in Web Development
+🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 📫 How to reach me **gpkini2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,7 +49,7 @@ Here are some ideas to get you started: -->
 
 <h3 align="left">Top Languages:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkini2002&show_icons=true&locale=en&layout=compact" alt="pkini2002" /></p>
-<br> -->
+<br> 
 
 
 
