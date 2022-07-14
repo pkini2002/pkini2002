@@ -8,6 +8,9 @@ Here are some ideas to get you started: -->
 - 🌱 I’m interested in Programming
 - 👯 I’m looking to collaborate on web development projects
 - 📫 How to reach me: gpkini2002@gmail.com
+- 👯 Feel free to connect with me on <a href="https://www.linkedin.com/in/prathiksha-kini/"> Linkedin </a>
+
+
 
  
 <!-- <h1 align="center">Hi 👋, I'm Prathiksha Kini</h1>
